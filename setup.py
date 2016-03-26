@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name="silex",
-    version="0.1.0",
+    version="0.2.0",
     description="string utilities",
     long_description=read_md('README.md'),
     author="Walid Saad",
