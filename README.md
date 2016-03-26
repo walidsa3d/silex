@@ -18,7 +18,7 @@ $ cd silex
 $ python setup.py install
 ```
 ## Usage
-```
+```python
 In [1]: from silex import *
 
 In [2]: print chop("whitespace", 5)
