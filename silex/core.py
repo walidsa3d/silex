@@ -4,10 +4,6 @@ import re
 import unicodedata
 
 
-def decamelize(strinvar):
-    pass
-
-
 def strip_html(stringvar):
     ''' remove html tags from string '''
     return re.sub(r'<[^<]+?>', '', stringvar)
