@@ -1,8 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# coding: utf-8
 from silex import *
-
-
 print chop("whitespace", 5)
 print numberex('1.2euros')
 print surround('b', '<', '>')
